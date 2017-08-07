@@ -1,0 +1,3 @@
+把login.sql导入MYSQL数据库，
+然后管理员账号是admin，密码是8
+mian.class是主页面
